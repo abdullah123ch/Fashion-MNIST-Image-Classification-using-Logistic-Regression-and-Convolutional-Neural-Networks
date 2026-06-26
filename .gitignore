@@ -30,10 +30,6 @@ share/python-wheels/
 *.tar.bz2
 *.tar.xz
 
-# Training outputs and logs
-history/
-logs/
-*.log
 
 # Dataset files (often large / generated)
 dataset/
